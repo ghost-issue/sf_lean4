@@ -7,5 +7,5 @@
 - Use `same` name for lean files.
 
 ## Tooling:
-- git for version control
+- git for version control, after complete a feature
 - LEAN4 extension for Antigravity

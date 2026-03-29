@@ -39,5 +39,3 @@ You can translate follow by toc and make it task by task.
 - [ ] **F15:** Translate Extraction
 - [ ] **F16:** Translate Auto
 - [ ] **F17:** Translate AltAuto
-- [ ] **F18:** Translate Postscript
-- [ ] **F19:** Translate Bib
