@@ -3,3 +3,4 @@ import lf.Induction
 import lf.Lists
 import lf.Poly
 import lf.Tactics
+import lf.Logic

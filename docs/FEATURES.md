@@ -54,7 +54,13 @@ You can translate follow by toc and make it task by task.
     - [x] **T5.4:** Translate Varying the Induction Hypothesis
     - [x] **T5.5:** Translate Unfolding Definitions and `destruct` on Compound Expressions
     - [x] **T5.6:** Translate Additional Exercises
-- [ ] **F6:** Translate Logic
+- [x] **F6:** Translate Logic
+    - [x] **T6.1:** Translate Conjunction and Disjunction
+    - [x] **T6.2:** Translate Falsehood, Negation, and Truth
+    - [x] **T6.3:** Translate Logical Equivalence and Setoids
+    - [x] **T6.4:** Translate Existential Quantification
+    - [x] **T6.5:** Translate Functional Extensionality
+    - [x] **T6.6:** Translate Classical vs. Constructive Logic
 - [ ] **F7:** Translate IndProp
 - [ ] **F8:** Translate Maps
 - [ ] **F9:** Translate ProofObjects
