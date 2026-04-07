@@ -6,4 +6,3 @@ As a result, Lean tried to parse `lemma` as a continuation of the previous line.
 
 ## How I fixed it
 I replaced `lemma succ_inj` with `theorem succ_inj` on line 20 in lf/Logic.lean. 
-Now Lean 4 recognizes theorem as a command, correctly terminating the previous def statement, and the file compiles successfully!

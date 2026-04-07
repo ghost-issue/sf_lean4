@@ -61,7 +61,14 @@ You can translate follow by toc and make it task by task.
     - [x] **T6.4:** Translate Existential Quantification
     - [x] **T6.5:** Translate Functional Extensionality
     - [x] **T6.6:** Translate Classical vs. Constructive Logic
-- [ ] **F7:** Translate IndProp
+- [x] **F7:** Translate IndProp
+    - [x] **T7.1:** Translate Inductively Defined Propositions (Examples: Collatz, Binary Relation, Transitive Closure, Permutations, Evenness)
+    - [x] **T7.2:** Translate Using Evidence in Proofs (Inversion, Induction on Evidence, Multiple Induction Hypotheses)
+    - [x] **T7.3:** Translate Exercising with Inductive Relations (le, lt, ge, R, subsequence)
+    - [x] **T7.4:** Translate Case Study: Regular Expressions
+    - [x] **T7.5:** Translate Case Study: Improving Reflection
+    - [x] **T7.6:** Translate Additional Exercises (nostutter, merge, filter_challenge, palindromes, NoDup, pigeonhole_principle)
+    - [x] **T7.7:** Translate Extended Exercise: A Verified Regular-Expression Matcher
 - [ ] **F8:** Translate Maps
 - [ ] **F9:** Translate ProofObjects
 - [ ] **F10:** Translate IndPrinciples
@@ -72,3 +79,4 @@ You can translate follow by toc and make it task by task.
 - [ ] **F15:** Translate Extraction
 - [ ] **F16:** Translate Auto
 - [ ] **F17:** Translate AltAuto
+- [ ] **F18:** Collection the different between Coq and Lean4(as like as readme.md and log.md)
