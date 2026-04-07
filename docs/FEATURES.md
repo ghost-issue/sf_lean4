@@ -69,7 +69,12 @@ You can translate follow by toc and make it task by task.
     - [x] **T7.5:** Translate Case Study: Improving Reflection
     - [x] **T7.6:** Translate Additional Exercises (nostutter, merge, filter_challenge, palindromes, NoDup, pigeonhole_principle)
     - [x] **T7.7:** Translate Extended Exercise: A Verified Regular-Expression Matcher
-- [ ] **F8:** Translate Maps
+- [x] **F8:** Translate Maps
+    - [x] **T8.1:** Translate Identifiers (String type and basic properties)
+    - [x] **T8.2:** Translate Total Maps (Definition, t_empty, t_update, Notations, and Examples)
+    - [x] **T8.3:** Translate Properties of Total Maps (t_apply_empty, t_update_eq, t_update_neq, t_update_shadow, t_update_same, t_update_permute)
+    - [x] **T8.4:** Translate Partial Maps (Definition, empty, update, Notations, and basic lemmas)
+    - [x] **T8.5:** Translate Map Inclusion (includedin, includedin_update)
 - [ ] **F9:** Translate ProofObjects
 - [ ] **F10:** Translate IndPrinciples
 - [ ] **F11:** Translate Rel
