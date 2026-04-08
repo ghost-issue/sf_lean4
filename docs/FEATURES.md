@@ -84,4 +84,4 @@ You can translate follow by toc and make it task by task.
 - [ ] **F15:** Translate Extraction
 - [ ] **F16:** Translate Auto
 - [ ] **F17:** Translate AltAuto
-- [ ] **F18:** Collection the different between Coq and Lean4(as like as readme.md and log.md)
+- [ ] **F18:** Collections the different between Coq and Lean4(as like as readme.md and log.md)
