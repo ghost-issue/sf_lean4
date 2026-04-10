@@ -75,8 +75,23 @@ You can translate follow by toc and make it task by task.
     - [x] **T8.3:** Translate Properties of Total Maps (t_apply_empty, t_update_eq, t_update_neq, t_update_shadow, t_update_same, t_update_permute)
     - [x] **T8.4:** Translate Partial Maps (Definition, empty, update, Notations, and basic lemmas)
     - [x] **T8.5:** Translate Map Inclusion (includedin, includedin_update)
-- [ ] **F9:** Translate ProofObjects
-- [ ] **F10:** Translate IndPrinciples
+- [x] **F9: Translate ProofObjects**
+    - [x] **T9.1:** Translate The Curry-Howard Correspondence and Proof Scripts (ev example, eight_is_even)
+    - [x] **T9.2:** Translate Quantifiers, Implications, Functions, and Programming with Tactics
+    - [x] **T9.3:** Translate Logical Connectives as Inductive Types (And, Or, Ex, True, False)
+    - [x] **T9.4:** Translate Equality (Inductive definition, Leibniz equality)
+    - [x] **T9.5:** Translate Inversion and Trusted Computing Base
+    - [x] **T9.6:** Translate More Exercises (and_assoc, or_distributes_over_and, negations, currying)
+    - [x] **T9.7:** Translate Proof Irrelevance (Advanced)
+- [ ] **F10: Translate IndPrinciples**
+    - [ ] **T10.1:** Translate Basics (nat_ind, mul_0_r', plus_one_r', non-recursive types like time, rgb)
+    - [ ] **T10.2:** Translate Induction Principles for Recursive Types (natlist, natlist', booltree_ind exercise)
+    - [ ] **T10.3:** Translate Toy Type Exercise (toy_ind)
+    - [ ] **T10.4:** Translate Polymorphism (list_ind, tree, mytype, foo, foo' exercises)
+    - [ ] **T10.5:** Translate Induction Hypotheses and the `induction` Tactic (P_m0r, add_assoc', add_comm', add_comm'')
+    - [ ] **T10.6:** Translate Induction Principles for Propositions (ev_ind, ev_ev', le1, le2)
+    - [ ] **T10.7:** Translate Formal vs. Informal Proofs by Induction (Text only)
+    - [ ] **T10.8:** Translate Explicit Proof Objects for Induction (build_proof, nat_ind2, even_ev, t_tree exercise)
 - [ ] **F11:** Translate Rel
 - [ ] **F12:** Translate Imp
 - [ ] **F13:** Translate ImpParser

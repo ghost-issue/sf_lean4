@@ -6,3 +6,15 @@ As a result, Lean tried to parse `lemma` as a continuation of the previous line.
 
 ## How I fixed it
 I replaced `lemma succ_inj` with `theorem succ_inj` on line 20 in lf/Logic.lean. 
+
+# The fixes included:
+   1. Ensuring the full resolution of the Collatz_holds_for 12 example by manually laying out the complete proof instead of using repeat.
+   2. Resolving ambiguity issues with ≤ by declaring an explicit namespace/prefix when needed, specifically replacing generic variables with typed ones (e.g., (3 : Nat) ≤ (5
+      : Nat)) to guide inference correctly.
+   3. Modifying evSS_ev to utilize Lean 4's injection properly by chaining injections and correctly tracking explicit variables in goals.
+   4. Correcting the proof structure of ev_Even using omega to easily solve the equation mapping after the correct instantiation of cases.
+   5. Explicitly binding implicit variables and explicit types (like (n m : Nat)) for theorems referring to # and inequalities.
+
+# Bug
+IndProp.lean
+- Induction on Evidence
